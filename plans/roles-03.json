@@ -1,0 +1,100 @@
+{
+  "format": "ekole.planche/1",
+  "id": "roles-03",
+  "largeur": 2048,
+  "hauteur": 1024,
+  "sortie_px": 512,
+  "marge_securite_px": 32,
+  "ordre": "gauche à droite, puis haut en bas",
+  "cases_vides": 0,
+  "images": [
+    {
+      "visual_id": "role-forgeron",
+      "fichier": "images/roles/forgeron.png",
+      "alt": "Personnage du rôle : Forgeron",
+      "zone": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "visual_id": "role-inventeur",
+      "fichier": "images/roles/inventeur.png",
+      "alt": "Personnage du rôle : Inventeur",
+      "zone": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "visual_id": "role-jardinier",
+      "fichier": "images/roles/jardinier.png",
+      "alt": "Personnage du rôle : Jardinier",
+      "zone": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "visual_id": "role-lecteur",
+      "fichier": "images/roles/lecteur.png",
+      "alt": "Personnage du rôle : Lecteur",
+      "zone": [
+        1536,
+        0,
+        2048,
+        512
+      ]
+    },
+    {
+      "visual_id": "role-mecanicien",
+      "fichier": "images/roles/mecanicien.png",
+      "alt": "Personnage du rôle : Mécanicien",
+      "zone": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "visual_id": "role-menuisier",
+      "fichier": "images/roles/menuisier.png",
+      "alt": "Personnage du rôle : Menuisier",
+      "zone": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    },
+    {
+      "visual_id": "role-messager",
+      "fichier": "images/roles/messager.png",
+      "alt": "Personnage du rôle : Messager",
+      "zone": [
+        1024,
+        512,
+        1536,
+        1024
+      ]
+    },
+    {
+      "visual_id": "role-metteur-en-scene",
+      "fichier": "images/roles/metteur-en-scene.png",
+      "alt": "Personnage du rôle : Metteur en scène",
+      "zone": [
+        1536,
+        512,
+        2048,
+        1024
+      ]
+    }
+  ]
+}

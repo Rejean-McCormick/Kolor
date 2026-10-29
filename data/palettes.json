@@ -1,0 +1,199 @@
+{
+  "format": "kolor.palettes/1",
+  "palette_par_defaut": "technique",
+  "carnation_par_defaut": "technique",
+  "palettes": [
+    {
+      "id": "technique",
+      "nom": "Code technique original",
+      "description": "Six couleurs de repérage Kolor, sans recolorisation.",
+      "cheveux": "#FF0000",
+      "haut": "#00FF00",
+      "bas": "#0000FF",
+      "chaussures": "#FF00FF",
+      "accessoires": "#00FFFF"
+    },
+    {
+      "id": "classique",
+      "nom": "Classique",
+      "description": "Bleu, brun et or.",
+      "cheveux": "#5A3825",
+      "haut": "#3478C7",
+      "bas": "#2A4668",
+      "chaussures": "#5A3D31",
+      "accessoires": "#E3A431"
+    },
+    {
+      "id": "pastel",
+      "nom": "Pastel",
+      "description": "Teintes tendres et calmes.",
+      "cheveux": "#9D6650",
+      "haut": "#B6D7CF",
+      "bas": "#B7A9DE",
+      "chaussures": "#D18CA6",
+      "accessoires": "#E7C97C"
+    },
+    {
+      "id": "foret",
+      "nom": "Forêt",
+      "description": "Verts doux, bois et sable.",
+      "cheveux": "#4B332B",
+      "haut": "#54825B",
+      "bas": "#8A674B",
+      "chaussures": "#523F37",
+      "accessoires": "#D8B56C"
+    },
+    {
+      "id": "ocean",
+      "nom": "Océan",
+      "description": "Turquoise, bleu marine et jaune doré.",
+      "cheveux": "#423329",
+      "haut": "#38A2A0",
+      "bas": "#365785",
+      "chaussures": "#264059",
+      "accessoires": "#E4B95B"
+    },
+    {
+      "id": "soleil",
+      "nom": "Soleil",
+      "description": "Orange, bleu et corail.",
+      "cheveux": "#693D29",
+      "haut": "#EBA344",
+      "bas": "#416EB1",
+      "chaussures": "#C54D39",
+      "accessoires": "#45C6BD"
+    },
+    {
+      "id": "fete",
+      "nom": "Fête",
+      "description": "Rose, violet et doré.",
+      "cheveux": "#522957",
+      "haut": "#E95CA5",
+      "bas": "#5E4AD9",
+      "chaussures": "#F0AC3D",
+      "accessoires": "#2ECBCB"
+    },
+    {
+      "id": "automne",
+      "nom": "Automne",
+      "description": "Terracotta, olive et caramel.",
+      "cheveux": "#563B2E",
+      "haut": "#BF6D4B",
+      "bas": "#667444",
+      "chaussures": "#784B39",
+      "accessoires": "#D6A550"
+    },
+    {
+      "id": "nuit",
+      "nom": "Nuit étoilée",
+      "description": "Indigo, violet et turquoise.",
+      "cheveux": "#2B2D45",
+      "haut": "#5357A9",
+      "bas": "#282E64",
+      "chaussures": "#714E92",
+      "accessoires": "#73C9CA"
+    },
+    {
+      "id": "tropical",
+      "nom": "Tropical",
+      "description": "Menthe, corail, indigo, jaune orangé.",
+      "cheveux": "#4A2E45",
+      "haut": "#1CBCAD",
+      "bas": "#4C4FB4",
+      "chaussures": "#F06D55",
+      "accessoires": "#FFC247"
+    },
+    {
+      "id": "bonbon",
+      "nom": "Bonbon",
+      "description": "Rose vif, menthe, violet et pêche.",
+      "cheveux": "#9D3F47",
+      "haut": "#FF6B9E",
+      "bas": "#44A88F",
+      "chaussures": "#7755BC",
+      "accessoires": "#FFAE72"
+    },
+    {
+      "id": "urbain",
+      "nom": "Urbain",
+      "description": "Jean bleu, veste aubergine, touches néon.",
+      "cheveux": "#4B3832",
+      "haut": "#7354BC",
+      "bas": "#327CA8",
+      "chaussures": "#D95A6E",
+      "accessoires": "#D7BF4A"
+    },
+    {
+      "id": "arc-en-ciel",
+      "nom": "Arc-en-ciel",
+      "description": "Tenue rouge, jean violet et accessoires turquoise.",
+      "cheveux": "#B06536",
+      "haut": "#E95B4C",
+      "bas": "#5154CC",
+      "chaussures": "#E7AA32",
+      "accessoires": "#32C7BB"
+    }
+  ],
+  "carnations": [
+    {
+      "id": "technique",
+      "nom": "Jaune technique",
+      "couleur": "#FFFF00"
+    },
+    {
+      "id": "porcelaine",
+      "nom": "Porcelaine",
+      "couleur": "#F9E1D0"
+    },
+    {
+      "id": "ivoire",
+      "nom": "Ivoire",
+      "couleur": "#F2D5B8"
+    },
+    {
+      "id": "clair",
+      "nom": "Clair",
+      "couleur": "#E9B98F"
+    },
+    {
+      "id": "dore",
+      "nom": "Doré",
+      "couleur": "#D89D66"
+    },
+    {
+      "id": "beige",
+      "nom": "Beige chaud",
+      "couleur": "#C98959"
+    },
+    {
+      "id": "cuivre",
+      "nom": "Cuivré",
+      "couleur": "#B97542"
+    },
+    {
+      "id": "caramel",
+      "nom": "Caramel",
+      "couleur": "#A66B41"
+    },
+    {
+      "id": "bronze",
+      "nom": "Bronze",
+      "couleur": "#8F5536"
+    },
+    {
+      "id": "brun",
+      "nom": "Brun",
+      "couleur": "#71432B"
+    },
+    {
+      "id": "fonce",
+      "nom": "Foncé",
+      "couleur": "#573521"
+    },
+    {
+      "id": "ebene",
+      "nom": "Ébène",
+      "couleur": "#3B241C"
+    }
+  ]
+}

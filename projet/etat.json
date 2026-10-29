@@ -1,0 +1,1565 @@
+{
+  "format": "kolor.studio/1",
+  "roles": {
+    "architecte": {
+      "planche": "planches/architecte.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 2969,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 76.0
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3002,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 75.7
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3656,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 71.9
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3023,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 75.1
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:15+00:00",
+      "palette_id": "classique",
+      "skin_tone_id": "porcelaine",
+      "couleurs_libres": {}
+    },
+    "astronaute": {
+      "planche": "planches/astronaute.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3451,
+          "ecart_palette_pct": 0.2,
+          "fond_blanc_pct": 73.5
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3440,
+          "ecart_palette_pct": 0.2,
+          "fond_blanc_pct": 73.4
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3669,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 72.2
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3358,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 74.1
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:16+00:00",
+      "palette_id": "pastel",
+      "skin_tone_id": "ivoire",
+      "couleurs_libres": {}
+    },
+    "boulanger": {
+      "planche": "planches/boulanger.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 2942,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 76.7
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3016,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 75.7
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2998,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 76.3
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2938,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 76.5
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:17+00:00",
+      "palette_id": "foret",
+      "skin_tone_id": "clair",
+      "couleurs_libres": {}
+    },
+    "bucheron": {
+      "planche": "planches/bucheron.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3268,
+          "ecart_palette_pct": 0.3,
+          "fond_blanc_pct": 74.2
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3393,
+          "ecart_palette_pct": 0.2,
+          "fond_blanc_pct": 72.6
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3658,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 71.6
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 4365,
+          "ecart_palette_pct": 0.2,
+          "fond_blanc_pct": 65.6
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:18+00:00",
+      "palette_id": "ocean",
+      "skin_tone_id": "dore",
+      "couleurs_libres": {}
+    },
+    "chevalier": {
+      "planche": "planches/chevalier.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 2728,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 77.1
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2799,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 76.4
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3661,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 69.5
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3029,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 74.7
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:19+00:00",
+      "palette_id": "soleil",
+      "skin_tone_id": "beige",
+      "couleurs_libres": {}
+    },
+    "clown": {
+      "planche": "planches/clown.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3527,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 70.7
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3076,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 74.2
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3854,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 68.0
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3024,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 72.8
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:20+00:00",
+      "palette_id": "fete",
+      "skin_tone_id": "cuivre",
+      "couleurs_libres": {}
+    },
+    "coiffeuse": {
+      "planche": "planches/coiffeuse.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 2532,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 78.8
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2479,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 79.2
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2650,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 76.6
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2387,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 79.9
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:21+00:00",
+      "palette_id": "automne",
+      "skin_tone_id": "caramel",
+      "couleurs_libres": {}
+    },
+    "comptable": {
+      "planche": "planches/comptable.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 2811,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 77.2
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2816,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 77.3
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3217,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 74.6
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2616,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 78.8
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:22+00:00",
+      "palette_id": "nuit",
+      "skin_tone_id": "bronze",
+      "couleurs_libres": {}
+    },
+    "createur-jeux": {
+      "planche": "planches/createur-jeux.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3012,
+          "ecart_palette_pct": 0.5,
+          "fond_blanc_pct": 74.8
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2998,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 74.5
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3398,
+          "ecart_palette_pct": 0.2,
+          "fond_blanc_pct": 72.7
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3113,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 73.5
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:22+00:00",
+      "palette_id": "tropical",
+      "skin_tone_id": "brun",
+      "couleurs_libres": {}
+    },
+    "cuisinier": {
+      "planche": "planches/cuisinier.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 2958,
+          "ecart_palette_pct": 0.2,
+          "fond_blanc_pct": 76.5
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2984,
+          "ecart_palette_pct": 0.3,
+          "fond_blanc_pct": 75.8
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3461,
+          "ecart_palette_pct": 0.2,
+          "fond_blanc_pct": 72.4
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2980,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 76.1
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:23+00:00",
+      "palette_id": "bonbon",
+      "skin_tone_id": "fonce",
+      "couleurs_libres": {}
+    },
+    "danseur": {
+      "planche": "planches/danseur.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3293,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 73.8
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3235,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 74.3
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3273,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 73.3
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2981,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 75.2
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:24+00:00",
+      "palette_id": "urbain",
+      "skin_tone_id": "ebene",
+      "couleurs_libres": {}
+    },
+    "dresseur-animaux": {
+      "planche": "planches/dresseur-animaux.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 2750,
+          "ecart_palette_pct": 0.4,
+          "fond_blanc_pct": 77.7
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2730,
+          "ecart_palette_pct": 0.3,
+          "fond_blanc_pct": 78.0
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2622,
+          "ecart_palette_pct": 0.2,
+          "fond_blanc_pct": 77.3
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2759,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 77.8
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:25+00:00",
+      "palette_id": "arc-en-ciel",
+      "skin_tone_id": "porcelaine",
+      "couleurs_libres": {}
+    },
+    "ecrivain": {
+      "planche": "planches/ecrivain.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3201,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 75.0
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3218,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 74.2
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3176,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 74.9
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3050,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 75.2
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:26+00:00",
+      "palette_id": "classique",
+      "skin_tone_id": "ivoire",
+      "couleurs_libres": {}
+    },
+    "explorateur": {
+      "planche": "planches/explorateur.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3085,
+          "ecart_palette_pct": 0.2,
+          "fond_blanc_pct": 74.4
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3236,
+          "ecart_palette_pct": 0.2,
+          "fond_blanc_pct": 72.7
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3439,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 72.3
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3335,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 72.4
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:27+00:00",
+      "palette_id": "pastel",
+      "skin_tone_id": "clair",
+      "couleurs_libres": {}
+    },
+    "extraterrestre": {
+      "planche": "planches/extraterrestre.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 2963,
+          "ecart_palette_pct": 0.2,
+          "fond_blanc_pct": 74.6
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3148,
+          "ecart_palette_pct": 0.2,
+          "fond_blanc_pct": 72.8
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3136,
+          "ecart_palette_pct": 0.2,
+          "fond_blanc_pct": 71.5
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3600,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 70.3
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:28+00:00",
+      "palette_id": "foret",
+      "skin_tone_id": "dore",
+      "couleurs_libres": {}
+    },
+    "fermier": {
+      "planche": "planches/fermier.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3385,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 72.7
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3262,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 73.6
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3875,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 68.6
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3809,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 68.8
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:29+00:00",
+      "palette_id": "ocean",
+      "skin_tone_id": "beige",
+      "couleurs_libres": {}
+    },
+    "forgeron": {
+      "planche": "planches/forgeron.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 2981,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 75.4
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2922,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 75.9
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3325,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 73.2
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3548,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 71.2
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:30+00:00",
+      "palette_id": "soleil",
+      "skin_tone_id": "cuivre",
+      "couleurs_libres": {}
+    },
+    "inventeur": {
+      "planche": "planches/inventeur.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3196,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 73.4
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3111,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 74.3
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3228,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 72.9
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3328,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 72.6
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:30+00:00",
+      "palette_id": "fete",
+      "skin_tone_id": "caramel",
+      "couleurs_libres": {}
+    },
+    "jardinier": {
+      "planche": "planches/jardinier.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3203,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 73.3
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3241,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 72.8
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3287,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 73.0
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3120,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 73.5
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:31+00:00",
+      "palette_id": "automne",
+      "skin_tone_id": "bronze",
+      "couleurs_libres": {}
+    },
+    "lecteur": {
+      "planche": "planches/lecteur.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3233,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 73.5
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3327,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 72.6
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3665,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 70.4
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3186,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 74.1
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:32+00:00",
+      "palette_id": "nuit",
+      "skin_tone_id": "brun",
+      "couleurs_libres": {}
+    },
+    "mecanicien": {
+      "planche": "planches/mecanicien.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 2959,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 76.0
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2952,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 76.1
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3160,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 74.2
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3135,
+          "ecart_palette_pct": 0.2,
+          "fond_blanc_pct": 74.7
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:33+00:00",
+      "palette_id": "tropical",
+      "skin_tone_id": "fonce",
+      "couleurs_libres": {}
+    },
+    "menuisier": {
+      "planche": "planches/menuisier.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3234,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 74.4
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3349,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 73.1
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3580,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 72.6
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3333,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 73.1
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:34+00:00",
+      "palette_id": "bonbon",
+      "skin_tone_id": "ebene",
+      "couleurs_libres": {}
+    },
+    "messager": {
+      "planche": "planches/messager.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3279,
+          "ecart_palette_pct": 0.7,
+          "fond_blanc_pct": 73.8
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3558,
+          "ecart_palette_pct": 0.3,
+          "fond_blanc_pct": 71.5
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3620,
+          "ecart_palette_pct": 0.4,
+          "fond_blanc_pct": 70.8
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3259,
+          "ecart_palette_pct": 0.6,
+          "fond_blanc_pct": 73.9
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:35+00:00",
+      "palette_id": "urbain",
+      "skin_tone_id": "porcelaine",
+      "couleurs_libres": {}
+    },
+    "metteur-en-scene": {
+      "planche": "planches/metteur-en-scene.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3060,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 74.5
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3206,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 73.3
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3622,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 70.7
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3639,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 69.7
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:36+00:00",
+      "palette_id": "arc-en-ciel",
+      "skin_tone_id": "ivoire",
+      "couleurs_libres": {}
+    },
+    "mineur": {
+      "planche": "planches/mineur.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3316,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 72.2
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3193,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 73.2
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3532,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 71.0
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3591,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 70.4
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:37+00:00",
+      "palette_id": "classique",
+      "skin_tone_id": "clair",
+      "couleurs_libres": {}
+    },
+    "musicien": {
+      "planche": "planches/musicien.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 2739,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 76.2
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2702,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 76.7
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3169,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 73.3
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2801,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 75.3
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:38+00:00",
+      "palette_id": "pastel",
+      "skin_tone_id": "dore",
+      "couleurs_libres": {}
+    },
+    "mystique": {
+      "planche": "planches/mystique.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3813,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 70.2
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3818,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 70.2
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3647,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 71.7
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3963,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 69.1
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:39+00:00",
+      "palette_id": "foret",
+      "skin_tone_id": "beige",
+      "couleurs_libres": {}
+    },
+    "origamiste": {
+      "planche": "planches/origamiste.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3116,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 73.7
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3191,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 73.3
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3333,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 72.9
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2790,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 76.6
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:40+00:00",
+      "palette_id": "ocean",
+      "skin_tone_id": "cuivre",
+      "couleurs_libres": {}
+    },
+    "pecheur": {
+      "planche": "planches/pecheur.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3377,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 71.9
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3630,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 67.6
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3731,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 68.7
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3385,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 71.3
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:41+00:00",
+      "palette_id": "soleil",
+      "skin_tone_id": "caramel",
+      "couleurs_libres": {}
+    },
+    "peintre": {
+      "planche": "planches/peintre.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 2588,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 77.5
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2657,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 76.8
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3762,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 67.6
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3011,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 73.1
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:41+00:00",
+      "palette_id": "fete",
+      "skin_tone_id": "bronze",
+      "couleurs_libres": {}
+    },
+    "photographe": {
+      "planche": "planches/photographe.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 2905,
+          "ecart_palette_pct": 0.2,
+          "fond_blanc_pct": 75.8
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2918,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 76.2
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2907,
+          "ecart_palette_pct": 0.7,
+          "fond_blanc_pct": 75.0
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 2913,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 76.1
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:42+00:00",
+      "palette_id": "automne",
+      "skin_tone_id": "brun",
+      "couleurs_libres": {}
+    },
+    "politicien": {
+      "planche": "planches/politicien.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 2990,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 76.0
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3205,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 73.8
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3279,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 73.5
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3887,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 69.5
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:43+00:00",
+      "palette_id": "nuit",
+      "skin_tone_id": "fonce",
+      "couleurs_libres": {}
+    },
+    "redacteur": {
+      "planche": "planches/redacteur.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3180,
+          "ecart_palette_pct": 0.2,
+          "fond_blanc_pct": 74.3
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3318,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 72.9
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3951,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 69.0
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3098,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 74.5
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:44+00:00",
+      "palette_id": "tropical",
+      "skin_tone_id": "ebene",
+      "couleurs_libres": {}
+    },
+    "regisseur": {
+      "planche": "planches/regisseur.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3067,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 74.2
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3158,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 72.9
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3736,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 67.7
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3483,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 69.7
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:45+00:00",
+      "palette_id": "bonbon",
+      "skin_tone_id": "porcelaine",
+      "couleurs_libres": {}
+    },
+    "scientifique": {
+      "planche": "planches/scientifique.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3678,
+          "ecart_palette_pct": 0.2,
+          "fond_blanc_pct": 69.5
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3650,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 69.9
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3622,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 70.5
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3572,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 70.5
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:46+00:00",
+      "palette_id": "urbain",
+      "skin_tone_id": "ivoire",
+      "couleurs_libres": {}
+    },
+    "sorciere": {
+      "planche": "planches/sorciere.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3342,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 73.4
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3330,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 72.7
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3458,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 72.4
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3300,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 73.3
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:25:47+00:00",
+      "palette_id": "arc-en-ciel",
+      "skin_tone_id": "clair",
+      "couleurs_libres": {}
+    },
+    "traducteur": {
+      "planche": "planches/traducteur.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3046,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 74.7
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3002,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 74.9
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3038,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 74.4
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3378,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 71.4
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:26:11+00:00",
+      "palette_id": "classique",
+      "skin_tone_id": "dore",
+      "couleurs_libres": {}
+    },
+    "veterinaire": {
+      "planche": "planches/veterinaire.png",
+      "selection": 0,
+      "valide": false,
+      "rapport": [
+        {
+          "a_verifier": [],
+          "pixels_forts": 3040,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 74.0
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3125,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 73.4
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3326,
+          "ecart_palette_pct": 0.0,
+          "fond_blanc_pct": 72.7
+        },
+        {
+          "a_verifier": [],
+          "pixels_forts": 3187,
+          "ecart_palette_pct": 0.1,
+          "fond_blanc_pct": 72.5
+        }
+      ],
+      "avertissement": null,
+      "importe_le": "2026-10-29T15:26:12+00:00",
+      "palette_id": "pastel",
+      "skin_tone_id": "beige",
+      "couleurs_libres": {}
+    }
+  },
+  "styles": {
+    "architecte": {
+      "palette_id": "classique",
+      "skin_tone_id": "porcelaine",
+      "couleurs_libres": {}
+    },
+    "astronaute": {
+      "palette_id": "pastel",
+      "skin_tone_id": "ivoire",
+      "couleurs_libres": {}
+    },
+    "boulanger": {
+      "palette_id": "foret",
+      "skin_tone_id": "clair",
+      "couleurs_libres": {}
+    },
+    "bucheron": {
+      "palette_id": "ocean",
+      "skin_tone_id": "dore",
+      "couleurs_libres": {}
+    },
+    "chevalier": {
+      "palette_id": "soleil",
+      "skin_tone_id": "beige",
+      "couleurs_libres": {}
+    },
+    "clown": {
+      "palette_id": "fete",
+      "skin_tone_id": "cuivre",
+      "couleurs_libres": {}
+    },
+    "coiffeuse": {
+      "palette_id": "automne",
+      "skin_tone_id": "caramel",
+      "couleurs_libres": {}
+    },
+    "comptable": {
+      "palette_id": "nuit",
+      "skin_tone_id": "bronze",
+      "couleurs_libres": {}
+    },
+    "createur-jeux": {
+      "palette_id": "tropical",
+      "skin_tone_id": "brun",
+      "couleurs_libres": {}
+    },
+    "cuisinier": {
+      "palette_id": "bonbon",
+      "skin_tone_id": "fonce",
+      "couleurs_libres": {}
+    },
+    "danseur": {
+      "palette_id": "urbain",
+      "skin_tone_id": "ebene",
+      "couleurs_libres": {}
+    },
+    "dresseur-animaux": {
+      "palette_id": "arc-en-ciel",
+      "skin_tone_id": "porcelaine",
+      "couleurs_libres": {}
+    },
+    "ecrivain": {
+      "palette_id": "classique",
+      "skin_tone_id": "ivoire",
+      "couleurs_libres": {}
+    },
+    "explorateur": {
+      "palette_id": "pastel",
+      "skin_tone_id": "clair",
+      "couleurs_libres": {}
+    },
+    "extraterrestre": {
+      "palette_id": "foret",
+      "skin_tone_id": "dore",
+      "couleurs_libres": {}
+    },
+    "fermier": {
+      "palette_id": "ocean",
+      "skin_tone_id": "beige",
+      "couleurs_libres": {}
+    },
+    "forgeron": {
+      "palette_id": "soleil",
+      "skin_tone_id": "cuivre",
+      "couleurs_libres": {}
+    },
+    "inventeur": {
+      "palette_id": "fete",
+      "skin_tone_id": "caramel",
+      "couleurs_libres": {}
+    },
+    "jardinier": {
+      "palette_id": "automne",
+      "skin_tone_id": "bronze",
+      "couleurs_libres": {}
+    },
+    "lecteur": {
+      "palette_id": "nuit",
+      "skin_tone_id": "brun",
+      "couleurs_libres": {}
+    },
+    "mecanicien": {
+      "palette_id": "tropical",
+      "skin_tone_id": "fonce",
+      "couleurs_libres": {}
+    },
+    "menuisier": {
+      "palette_id": "bonbon",
+      "skin_tone_id": "ebene",
+      "couleurs_libres": {}
+    },
+    "messager": {
+      "palette_id": "urbain",
+      "skin_tone_id": "porcelaine",
+      "couleurs_libres": {}
+    },
+    "metteur-en-scene": {
+      "palette_id": "arc-en-ciel",
+      "skin_tone_id": "ivoire",
+      "couleurs_libres": {}
+    },
+    "mineur": {
+      "palette_id": "classique",
+      "skin_tone_id": "clair",
+      "couleurs_libres": {}
+    },
+    "musicien": {
+      "palette_id": "pastel",
+      "skin_tone_id": "dore",
+      "couleurs_libres": {}
+    },
+    "mystique": {
+      "palette_id": "foret",
+      "skin_tone_id": "beige",
+      "couleurs_libres": {}
+    },
+    "origamiste": {
+      "palette_id": "ocean",
+      "skin_tone_id": "cuivre",
+      "couleurs_libres": {}
+    },
+    "pecheur": {
+      "palette_id": "soleil",
+      "skin_tone_id": "caramel",
+      "couleurs_libres": {}
+    },
+    "peintre": {
+      "palette_id": "fete",
+      "skin_tone_id": "bronze",
+      "couleurs_libres": {}
+    },
+    "photographe": {
+      "palette_id": "automne",
+      "skin_tone_id": "brun",
+      "couleurs_libres": {}
+    },
+    "politicien": {
+      "palette_id": "nuit",
+      "skin_tone_id": "fonce",
+      "couleurs_libres": {}
+    },
+    "redacteur": {
+      "palette_id": "tropical",
+      "skin_tone_id": "ebene",
+      "couleurs_libres": {}
+    },
+    "regisseur": {
+      "palette_id": "bonbon",
+      "skin_tone_id": "porcelaine",
+      "couleurs_libres": {}
+    },
+    "scientifique": {
+      "palette_id": "urbain",
+      "skin_tone_id": "ivoire",
+      "couleurs_libres": {}
+    },
+    "sorciere": {
+      "palette_id": "arc-en-ciel",
+      "skin_tone_id": "clair",
+      "couleurs_libres": {}
+    },
+    "traducteur": {
+      "palette_id": "classique",
+      "skin_tone_id": "dore",
+      "couleurs_libres": {}
+    },
+    "veterinaire": {
+      "palette_id": "pastel",
+      "skin_tone_id": "beige",
+      "couleurs_libres": {}
+    }
+  }
+}

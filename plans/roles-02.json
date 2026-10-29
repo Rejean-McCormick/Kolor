@@ -1,0 +1,100 @@
+{
+  "format": "ekole.planche/1",
+  "id": "roles-02",
+  "largeur": 2048,
+  "hauteur": 1024,
+  "sortie_px": 512,
+  "marge_securite_px": 32,
+  "ordre": "gauche à droite, puis haut en bas",
+  "cases_vides": 0,
+  "images": [
+    {
+      "visual_id": "role-createur-jeux",
+      "fichier": "images/roles/createur-jeux.png",
+      "alt": "Personnage du rôle : Créateur de jeux vidéo",
+      "zone": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "visual_id": "role-cuisinier",
+      "fichier": "images/roles/cuisinier.png",
+      "alt": "Personnage du rôle : Cuisinier",
+      "zone": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "visual_id": "role-danseur",
+      "fichier": "images/roles/danseur.png",
+      "alt": "Personnage du rôle : Danseur",
+      "zone": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "visual_id": "role-dresseur-animaux",
+      "fichier": "images/roles/dresseur-animaux.png",
+      "alt": "Personnage du rôle : Éducateur animalier",
+      "zone": [
+        1536,
+        0,
+        2048,
+        512
+      ]
+    },
+    {
+      "visual_id": "role-ecrivain",
+      "fichier": "images/roles/ecrivain.png",
+      "alt": "Personnage du rôle : Écrivain",
+      "zone": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "visual_id": "role-explorateur",
+      "fichier": "images/roles/explorateur.png",
+      "alt": "Personnage du rôle : Explorateur",
+      "zone": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    },
+    {
+      "visual_id": "role-extraterrestre",
+      "fichier": "images/roles/extraterrestre.png",
+      "alt": "Personnage du rôle : Extraterrestre",
+      "zone": [
+        1024,
+        512,
+        1536,
+        1024
+      ]
+    },
+    {
+      "visual_id": "role-fermier",
+      "fichier": "images/roles/fermier.png",
+      "alt": "Personnage du rôle : Fermier",
+      "zone": [
+        1536,
+        512,
+        2048,
+        1024
+      ]
+    }
+  ]
+}

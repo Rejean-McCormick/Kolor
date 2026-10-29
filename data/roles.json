@@ -1,0 +1,608 @@
+[
+  {
+    "id": "architecte",
+    "nom": "Architecte",
+    "visual_id": "role-architecte",
+    "actions": [
+      "mesurer",
+      "dessiner",
+      "organiser"
+    ],
+    "objets": [
+      "plan",
+      "maquette",
+      "règle"
+    ],
+    "intro": "imaginer des bâtiments"
+  },
+  {
+    "id": "astronaute",
+    "nom": "Astronaute",
+    "visual_id": "role-astronaute",
+    "actions": [
+      "calculer",
+      "explorer",
+      "communiquer"
+    ],
+    "objets": [
+      "carte stellaire",
+      "fusée de papier"
+    ],
+    "intro": "planifier une mission spatiale fictive"
+  },
+  {
+    "id": "boulanger",
+    "nom": "Boulanger",
+    "visual_id": "role-boulanger",
+    "actions": [
+      "préparer des recettes",
+      "vendre",
+      "livrer"
+    ],
+    "objets": [
+      "pain",
+      "recette",
+      "ticket"
+    ],
+    "intro": "préparer les commandes de la boulangerie"
+  },
+  {
+    "id": "bucheron",
+    "nom": "Bûcheron",
+    "visual_id": "role-bucheron",
+    "actions": [
+      "mesurer",
+      "sélectionner",
+      "cartographier"
+    ],
+    "objets": [
+      "carte",
+      "arbre",
+      "règle"
+    ],
+    "intro": "planifier une récolte forestière durable fictive"
+  },
+  {
+    "id": "chevalier",
+    "nom": "Chevalier",
+    "visual_id": "role-chevalier",
+    "actions": [
+      "planifier",
+      "aider",
+      "négocier"
+    ],
+    "objets": [
+      "bouclier de papier",
+      "carte",
+      "lettre"
+    ],
+    "intro": "protéger et organiser un château imaginaire"
+  },
+  {
+    "id": "clown",
+    "nom": "Clown",
+    "visual_id": "role-clown",
+    "actions": [
+      "jongler",
+      "présenter",
+      "inviter"
+    ],
+    "objets": [
+      "costume",
+      "scène",
+      "accessoires"
+    ],
+    "intro": "préparer un spectacle comique"
+  },
+  {
+    "id": "coiffeuse",
+    "nom": "Coiffeuse",
+    "visual_id": "role-coiffeuse",
+    "actions": [
+      "dessiner",
+      "écouter",
+      "organiser"
+    ],
+    "objets": [
+      "modèle",
+      "ciseaux de papier",
+      "miroir"
+    ],
+    "intro": "concevoir des styles et services imaginaires"
+  },
+  {
+    "id": "comptable",
+    "nom": "Comptable",
+    "visual_id": "role-comptable",
+    "actions": [
+      "additionner",
+      "vérifier",
+      "présenter"
+    ],
+    "objets": [
+      "facture",
+      "Klownkoins",
+      "registre"
+    ],
+    "intro": "tenir le budget fictif"
+  },
+  {
+    "id": "createur-jeux",
+    "nom": "Créateur de jeux vidéo",
+    "visual_id": "role-createur-jeux",
+    "actions": [
+      "décrire des règles",
+      "tester",
+      "déboguer"
+    ],
+    "objets": [
+      "grille",
+      "personnage",
+      "carte"
+    ],
+    "intro": "concevoir un petit jeu sur papier"
+  },
+  {
+    "id": "cuisinier",
+    "nom": "Cuisinier",
+    "visual_id": "role-cuisinier",
+    "actions": [
+      "mesurer",
+      "lire",
+      "calculer"
+    ],
+    "objets": [
+      "menu",
+      "recette",
+      "ingrédients fictifs"
+    ],
+    "intro": "préparer un menu fictif"
+  },
+  {
+    "id": "danseur",
+    "nom": "Danseur",
+    "visual_id": "role-danseur",
+    "actions": [
+      "compter les temps",
+      "répéter",
+      "présenter"
+    ],
+    "objets": [
+      "musique",
+      "séquence",
+      "scène"
+    ],
+    "intro": "préparer une chorégraphie"
+  },
+  {
+    "id": "dresseur-animaux",
+    "nom": "Éducateur animalier",
+    "visual_id": "role-dresseur-animaux",
+    "actions": [
+      "observer",
+      "classifier",
+      "expliquer"
+    ],
+    "objets": [
+      "fiche espèce",
+      "schéma",
+      "habitat"
+    ],
+    "intro": "étudier les animaux avec respect"
+  },
+  {
+    "id": "ecrivain",
+    "nom": "Écrivain",
+    "visual_id": "role-ecrivain",
+    "actions": [
+      "rédiger",
+      "corriger",
+      "lire"
+    ],
+    "objets": [
+      "cahier",
+      "invitation",
+      "manuscrit"
+    ],
+    "intro": "écrire une histoire et des messages"
+  },
+  {
+    "id": "explorateur",
+    "nom": "Explorateur",
+    "visual_id": "role-explorateur",
+    "actions": [
+      "cartographier",
+      "observer",
+      "communiquer"
+    ],
+    "objets": [
+      "carte",
+      "carnet",
+      "boussole"
+    ],
+    "intro": "explorer un territoire imaginaire"
+  },
+  {
+    "id": "extraterrestre",
+    "nom": "Extraterrestre",
+    "visual_id": "role-extraterrestre",
+    "actions": [
+      "décoder",
+      "observer",
+      "traduire"
+    ],
+    "objets": [
+      "message",
+      "astronef de carton",
+      "carte"
+    ],
+    "intro": "découvrir un monde et communiquer"
+  },
+  {
+    "id": "fermier",
+    "nom": "Fermier",
+    "visual_id": "role-fermier",
+    "actions": [
+      "semer",
+      "mesurer",
+      "récolter"
+    ],
+    "objets": [
+      "semences",
+      "pot",
+      "panier"
+    ],
+    "intro": "organiser une ferme imaginaire"
+  },
+  {
+    "id": "forgeron",
+    "nom": "Forgeron",
+    "visual_id": "role-forgeron",
+    "actions": [
+      "concevoir",
+      "comparer",
+      "assembler"
+    ],
+    "objets": [
+      "plan",
+      "métal fictif",
+      "carton"
+    ],
+    "intro": "fabriquer des outils fictifs en papier"
+  },
+  {
+    "id": "inventeur",
+    "nom": "Inventeur",
+    "visual_id": "role-inventeur",
+    "actions": [
+      "concevoir",
+      "tester",
+      "réparer"
+    ],
+    "objets": [
+      "prototype carton",
+      "croquis",
+      "mesures"
+    ],
+    "intro": "résoudre des problèmes par des prototypes"
+  },
+  {
+    "id": "jardinier",
+    "nom": "Jardinier",
+    "visual_id": "role-jardinier",
+    "actions": [
+      "semer",
+      "mesurer",
+      "classer"
+    ],
+    "objets": [
+      "graines",
+      "plante",
+      "arrosoir"
+    ],
+    "intro": "aménager un jardin scolaire"
+  },
+  {
+    "id": "lecteur",
+    "nom": "Lecteur",
+    "visual_id": "role-lecteur",
+    "actions": [
+      "lire",
+      "répéter",
+      "articuler"
+    ],
+    "objets": [
+      "discours",
+      "micro factice",
+      "pupitre"
+    ],
+    "intro": "dire le discours au public"
+  },
+  {
+    "id": "mecanicien",
+    "nom": "Mécanicien",
+    "visual_id": "role-mecanicien",
+    "actions": [
+      "diagnostiquer",
+      "mesurer",
+      "assembler"
+    ],
+    "objets": [
+      "engrenage carton",
+      "vélo fictif",
+      "plan"
+    ],
+    "intro": "réparer des objets simulés"
+  },
+  {
+    "id": "menuisier",
+    "nom": "Menuisier",
+    "visual_id": "role-menuisier",
+    "actions": [
+      "mesurer",
+      "dessiner",
+      "assembler"
+    ],
+    "objets": [
+      "plan",
+      "règle",
+      "planche de carton"
+    ],
+    "intro": "fabriquer des objets en bois fictif ou matériaux sécuritaires"
+  },
+  {
+    "id": "messager",
+    "nom": "Messager",
+    "visual_id": "role-messager",
+    "actions": [
+      "rencontrer",
+      "remettre",
+      "confirmer"
+    ],
+    "objets": [
+      "invitation",
+      "carte",
+      "enveloppe"
+    ],
+    "intro": "livrer des messages et aider les autres"
+  },
+  {
+    "id": "metteur-en-scene",
+    "nom": "Metteur en scène",
+    "visual_id": "role-metteur-en-scene",
+    "actions": [
+      "planifier",
+      "coordonner",
+      "répéter"
+    ],
+    "objets": [
+      "planning",
+      "scène",
+      "texte"
+    ],
+    "intro": "orchestrer une représentation"
+  },
+  {
+    "id": "mineur",
+    "nom": "Mineur",
+    "visual_id": "role-mineur",
+    "actions": [
+      "cartographier",
+      "classer",
+      "compter"
+    ],
+    "objets": [
+      "carte",
+      "cailloux",
+      "lampes factices"
+    ],
+    "intro": "explorer un gisement fictif"
+  },
+  {
+    "id": "musicien",
+    "nom": "Musicien",
+    "visual_id": "role-musicien",
+    "actions": [
+      "composer",
+      "rythmer",
+      "jouer"
+    ],
+    "objets": [
+      "partition",
+      "instrument",
+      "chanson"
+    ],
+    "intro": "préparer une musique de fête"
+  },
+  {
+    "id": "mystique",
+    "nom": "Mystique",
+    "visual_id": "role-mystique",
+    "actions": [
+      "interpréter",
+      "raconter",
+      "dessiner"
+    ],
+    "objets": [
+      "symbole",
+      "conte",
+      "carte"
+    ],
+    "intro": "explorer des symboles et contes imaginaires"
+  },
+  {
+    "id": "origamiste",
+    "nom": "Maître de l’origami",
+    "visual_id": "role-origamiste",
+    "actions": [
+      "plier",
+      "compter",
+      "enseigner"
+    ],
+    "objets": [
+      "papier",
+      "chapeau",
+      "étoile"
+    ],
+    "intro": "fabriquer des objets par pliage"
+  },
+  {
+    "id": "pecheur",
+    "nom": "Pêcheur",
+    "visual_id": "role-pecheur",
+    "actions": [
+      "mesurer",
+      "observer",
+      "classifier"
+    ],
+    "objets": [
+      "carte",
+      "filet fictif",
+      "carnet"
+    ],
+    "intro": "organiser une pêche simulée"
+  },
+  {
+    "id": "peintre",
+    "nom": "Peintre",
+    "visual_id": "role-peintre",
+    "actions": [
+      "dessiner",
+      "colorier",
+      "exposer"
+    ],
+    "objets": [
+      "affiche",
+      "pinceau",
+      "palette"
+    ],
+    "intro": "créer les affiches et décors"
+  },
+  {
+    "id": "photographe",
+    "nom": "Photographe",
+    "visual_id": "role-photographe",
+    "actions": [
+      "cadrer",
+      "classer",
+      "documenter"
+    ],
+    "objets": [
+      "photo",
+      "galerie",
+      "métadonnées"
+    ],
+    "intro": "documenter les productions avec permission"
+  },
+  {
+    "id": "politicien",
+    "nom": "Politicien",
+    "visual_id": "role-politicien",
+    "actions": [
+      "délibérer",
+      "expliquer",
+      "voter"
+    ],
+    "objets": [
+      "ordre du jour",
+      "discours"
+    ],
+    "intro": "proposer une décision collective"
+  },
+  {
+    "id": "redacteur",
+    "nom": "Rédacteur",
+    "visual_id": "role-redacteur",
+    "actions": [
+      "rédiger",
+      "corriger",
+      "adapter"
+    ],
+    "objets": [
+      "discours",
+      "mandat",
+      "brouillon"
+    ],
+    "intro": "écrire les textes d'une cérémonie"
+  },
+  {
+    "id": "regisseur",
+    "nom": "Régisseur",
+    "visual_id": "role-regisseur",
+    "actions": [
+      "installer",
+      "vérifier",
+      "coordonner"
+    ],
+    "objets": [
+      "chaises",
+      "décor",
+      "plan"
+    ],
+    "intro": "préparer la scène et les objets"
+  },
+  {
+    "id": "scientifique",
+    "nom": "Scientifique",
+    "visual_id": "role-scientifique",
+    "actions": [
+      "observer",
+      "calculer",
+      "comparer"
+    ],
+    "objets": [
+      "carnet",
+      "tableau",
+      "mesure"
+    ],
+    "intro": "tester une hypothèse"
+  },
+  {
+    "id": "sorciere",
+    "nom": "Sorcière",
+    "visual_id": "role-sorciere",
+    "actions": [
+      "créer une potion fictive",
+      "préparer des accessoires",
+      "organiser"
+    ],
+    "objets": [
+      "chapeau",
+      "invitation",
+      "potion fictive"
+    ],
+    "intro": "créer des objets imaginaires, enquêter, organiser une fête"
+  },
+  {
+    "id": "traducteur",
+    "nom": "Traducteur",
+    "visual_id": "role-traducteur",
+    "actions": [
+      "comparer",
+      "reformuler",
+      "relire"
+    ],
+    "objets": [
+      "dictionnaire",
+      "texte",
+      "invitation"
+    ],
+    "intro": "produire des invitations bilingues"
+  },
+  {
+    "id": "veterinaire",
+    "nom": "Vétérinaire",
+    "visual_id": "role-veterinaire",
+    "actions": [
+      "observer",
+      "diagnostiquer fictivement",
+      "expliquer"
+    ],
+    "objets": [
+      "dossier",
+      "peluche",
+      "balance"
+    ],
+    "intro": "soigner des animaux fictifs"
+  }
+]

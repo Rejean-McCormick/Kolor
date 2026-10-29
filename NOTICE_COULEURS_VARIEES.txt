@@ -1,0 +1,19 @@
+KOLOR STUDIO — SKIN TONES + COULEURS VARIEES + TRAITS NOIRS FIXES
+
+VERSION COMPLETE : décompresser le ZIP complet. Les 38 rôles et leurs 152 poses sont inclus. Double-cliquer sur INSTALLER_ET_LANCER.bat (Windows + Python + Pillow).
+
+MISE A JOUR LEGERE : sauvegarder le dossier Kolor_Studio existant puis extraire l’archive dans son DOSSIER PARENT, en remplaçant le code. Aucun fichier projet/ (images ou état) n’est inclus dans cette mise à jour, vos choix restent en place.
+
+Panneau droit :
+  • « Palette multicolore » : couleurs de base des vêtements, cheveux et accessoires.
+  • « Carnation / skin tone » : peau seulement.
+  • Cliquer les 5 carrés de couleur : changer chaque élément indépendamment.
+  • « Générer une combinaison multicolore » : panacher les couleurs.
+  • « Revenir aux couleurs de la palette » : réinitialiser les 5 choix individuels.
+  • « Exporter pour Kolor / Kontexte » : régénérer les images colorées.
+
+NOIR #000000 = TOUJOURS LES TRAITS / CONTOURS.
+BLANC #FFFFFF = TOUJOURS LE FOND.
+Les sources techniques d’origine ne sont JAMAIS écrasées.
+
+Le dossier d'une autre application Kolor installé sur votre disque local n'est pas modifié : seules les fonctions de Kolor Studio et ses exports le sont.

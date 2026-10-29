@@ -1,0 +1,28 @@
+Crée UNE SEULE PLANCHE au FORMAT CARRÉ (rapport largeur/hauteur 1:1), sans imposer de dimensions en pixels. Divise-la mentalement en 2 colonnes × 2 rangées : QUATRE cases carrées identiques occupant chacune 25 % de la surface totale (50 % de la largeur et 50 % de la hauteur).
+
+PERSONNAGE : « Fermier », personnage fictif sympathique dans un cahier de coloriage pour enfants. Idée du rôle : organiser une ferme imaginaire.
+
+RÈGLE ABSOLUE DE COHÉRENCE : montre EXACTEMENT LE MÊME PERSONNAGE 4 FOIS, avec un visage et une coiffure identiques, les mêmes vêtements et accessoires, les mêmes proportions, la même silhouette et le même âge. Seuls ses bras, ses gestes et sa posture changent légèrement. Ce ne sont pas quatre personnages différents.
+
+DISPOSITION, SANS QUADRILLAGE NI TEXTE :
+• Haut gauche (image principale) : debout, de face, les pieds visibles, posture accueillante; les deux mains clairement visibles.
+• Haut droite : debout, de face, souriant et faisant un signe de la main.
+• Bas gauche : debout, de face, montrant un accessoire emblématique du rôle, de façon simple et lisible; objet suggéré : semences.
+• Bas droite : debout et faisant un geste caractéristique du métier, sans autre personnage ni décor; geste suggéré : semer.
+
+IMPORTANT POUR LE DÉCOUPAGE : chaque personnage doit être ENTIER, de la tête aux pieds. Place UN personnage au centre de CHAQUE quart d'image, jamais entre les cases. Laisse une marge blanche de sécurité d'au moins 6,25 % de la largeur de chaque case sur chacun de ses quatre côtés, quelle que soit la résolution choisie. Pas de traits de grille, pas de numéros, pas de titres. Les quatre cases doivent rester lisibles une fois la planche découpée exactement à mi-largeur et à mi-hauteur, sans dimension imposée en pixels.
+
+STYLE : dessin 2D très net, grands aplats, contour NOIR pur (#000000) épais, uniforme et fermé autour de chaque zone, comme un cahier de coloriage pour enfants. Formes claires, peu de petits détails, pas de perspective compliquée. Fond BLANC pur (#FFFFFF), sans paysage, sol, ombre portée, texture, décor ou autre personnage.
+
+IMPORTANT — LES COULEURS SONT UN CODE TECHNIQUE, PAS UN RENDU NATUREL. Utilise UNIQUEMENT ces SIX couleurs pour les aplats, sur les QUATRE cases, sans aucune variation :
+• PEAU (visage, mains, jambes visibles) : JAUNE #FFFF00.
+• CHEVEUX ou barbe : ROUGE #FF0000.
+• HAUT (chemise, manteau ou robe) : VERT #00FF00.
+• BAS (pantalon, jupe) : BLEU #0000FF.
+• CHAUSSURES : MAGENTA #FF00FF.
+• ACCESSOIRES et objets portés : CYAN #00FFFF.
+Le noir #000000 est réservé aux contours et aux détails noirs; le blanc #FFFFFF au fond et aux blancs des yeux. Si le personnage n'a pas de cheveux, ne fabrique pas de cheveux pour employer le rouge. Pour un personnage non humain, utilise le jaune comme couleur de sa peau/corps visible. Pour les vêtements d'un seul tenant, vert pour la partie haute et bleu pour la partie basse, avec une ligne noire de séparation.
+
+INTERDICTIONS : aucune septième couleur de remplissage, aucun dégradé, aucun ombrage, aucun reflet, aucun effet 3D, aucune texture, aucun mélange, aucune écriture, aucun cartouche, aucune bordure de grille, aucun décor, aucune couleur de peau naturelle à ce stade. Ne pas générer une planche de personnages différents.
+
+PRIORITÉS : 1) même identité dans les 4 cases, 2) séparation parfaite des cases, 3) six couleurs exactes faciles à remplacer, 4) contours noirs épais, 5) personnages entiers et isolés.

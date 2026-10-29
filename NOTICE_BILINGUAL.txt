@@ -1,0 +1,18 @@
+Kolor Studio — French / English UI and English documentation
+
+FULL PACKAGE
+  Extract the ZIP. Start Kolor_Studio/INSTALLER_ET_LANCER.bat.
+  Choose Français or English in the header.
+  Read Kolor_Studio/README.md and Kolor_Studio/wiki/Home.md.
+
+PATCH PACKAGE
+  Back up your existing Kolor_Studio folder, especially projet/.
+  Extract the patch over the existing Kolor_Studio directory.
+  The patch modifies GUI/i18n/docs only; existing artwork and palettes remain.
+
+The interface language is stored in projet/preferences.json.
+Only visible desktop labels are localized: role IDs, prompts, CLI actions,
+project paths, and exported JSON schema are intentionally left unchanged.
+
+Color rules: skin tone independent from multicolor clothes and accessories;
+exact black outlines #000000 and white background #FFFFFF stay locked.
