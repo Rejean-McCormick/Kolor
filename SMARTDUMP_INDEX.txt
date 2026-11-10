@@ -1,0 +1,93 @@
+SMART DUMPER INDEX
+==================
+generated_at: 2026-11-09T16:34:06.396994
+source_root: C:\mycode\Ekole\Kolor
+mode: snapshot
+zip_file: Kolor_Code_snapshot.zip
+embedded_index: SMARTDUMP_INDEX.txt
+file_count: 80
+total_bytes: 409631
+compression: ZIP_DEFLATED level 1
+
+FILES
+-----
+CHANGELOG.md	900 bytes
+correspondances_noms.csv	4908 bytes
+data/palettes.json	4546 bytes
+data/roles.json	11362 bytes
+EXPORTER_PROMPTS.bat	164 bytes
+GitSink.bat	1863 bytes
+INSTALLER_ET_LANCER.bat	686 bytes
+INTEGRATION_EFFECTUEE.md	2726 bytes
+kolor_i18n.py	12270 bytes
+kolor_palette.py	6742 bytes
+Kolor_Studio.pyw	36047 bytes
+Kolor_Studio_CLI.py	3567 bytes
+kolor_studio_core.py	23980 bytes
+NOTICE_BILINGUAL.txt	826 bytes
+NOTICE_COULEURS_VARIEES.txt	1274 bytes
+plans/roles-01.json	1980 bytes
+plans/roles-02.json	2043 bytes
+plans/roles-03.json	2002 bytes
+plans/roles-04.json	1986 bytes
+plans/roles-05.json	1562 bytes
+projet/etat.json	39078 bytes
+projet/exports/manifest.json	29636 bytes
+projet/exports/palettes.json	4546 bytes
+projet/preferences.json	23 bytes
+projet/prompts/architecte.txt	3541 bytes
+projet/prompts/astronaute.txt	3568 bytes
+projet/prompts/boulanger.txt	3573 bytes
+projet/prompts/bucheron.txt	3568 bytes
+projet/prompts/chevalier.txt	3578 bytes
+projet/prompts/clown.txt	3546 bytes
+projet/prompts/coiffeuse.txt	3565 bytes
+projet/prompts/comptable.txt	3546 bytes
+projet/prompts/createur-jeux.txt	3580 bytes
+projet/prompts/cuisinier.txt	3541 bytes
+projet/prompts/danseur.txt	3555 bytes
+projet/prompts/dresseur-animaux.txt	3571 bytes
+projet/prompts/ecrivain.txt	3556 bytes
+projet/prompts/explorateur.txt	3559 bytes
+projet/prompts/extraterrestre.txt	3560 bytes
+projet/prompts/fermier.txt	3547 bytes
+projet/prompts/forgeron.txt	3556 bytes
+projet/prompts/inventeur.txt	3574 bytes
+projet/prompts/jardinier.txt	3546 bytes
+projet/prompts/lecteur.txt	3542 bytes
+projet/prompts/mecanicien.txt	3565 bytes
+projet/prompts/menuisier.txt	3580 bytes
+projet/prompts/messager.txt	3564 bytes
+projet/prompts/metteur-en-scene.txt	3561 bytes
+projet/prompts/mineur.txt	3548 bytes
+projet/prompts/musicien.txt	3552 bytes
+projet/prompts/mystique.txt	3567 bytes
+projet/prompts/origamiste.txt	3561 bytes
+projet/prompts/pecheur.txt	3546 bytes
+projet/prompts/peintre.txt	3549 bytes
+projet/prompts/photographe.txt	3561 bytes
+projet/prompts/politicien.txt	3564 bytes
+projet/prompts/redacteur.txt	3559 bytes
+projet/prompts/regisseur.txt	3556 bytes
+projet/prompts/scientifique.txt	3544 bytes
+projet/prompts/sorciere.txt	3599 bytes
+projet/prompts/traducteur.txt	3561 bytes
+projet/prompts/veterinaire.txt	3552 bytes
+README.md	5708 bytes
+README_FR.md	14699 bytes
+requirements.txt	13 bytes
+tests/test_core.py	5206 bytes
+tests/test_couleurs_variees.py	5073 bytes
+tests/test_i18n.py	2656 bytes
+tests/test_palettes.py	5049 bytes
+wiki/_Footer.md	167 bytes
+wiki/_Sidebar.md	377 bytes
+wiki/Bilingual-Interface.md	1760 bytes
+wiki/Character-Sheets.md	2183 bytes
+wiki/Command-Line-Reference.md	2017 bytes
+wiki/Exports-and-Integration.md	2262 bytes
+wiki/Getting-Started.md	2286 bytes
+wiki/Home.md	2142 bytes
+wiki/Palettes-and-Skin-Tones.md	2595 bytes
+wiki/Troubleshooting.md	2571 bytes
+ZmartZnap.pyw	22889 bytes

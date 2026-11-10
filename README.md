@@ -51,6 +51,7 @@ All generated prompts use the six technical region colors: skin `#FFFF00`, hair 
 | `projet/exports/images/roles_techniques/` | Technical-color 512 × 512 reference poses |
 | `projet/exports/planches_ekole/` | Reassembled legacy catalog sheets |
 | `projet/exports/manifest.json` | Per-role paths, colors and review status |
+| `projet/exports/creative-candidates.json` | Additional proposed UCKK review candidates with exported PNG hashes and unverified rights |
 | `projet/exports/palettes.json` | Palette catalog copied alongside exports |
 | `wiki/` | English-language project wiki (Markdown) |
 
@@ -89,3 +90,7 @@ The tests use local fixtures and make no billable image API calls. The 38 bundle
 - A source image with incorrect technical colors may recolor ambiguously (for example, red used for both hair and a mouth). Always review the output.
 - The application prepares files for another Kolor / Kontexte project, but does not automatically edit that separate application's source code.
 - Keep a backup of your `projet/` directory before applying updates to an older installation.
+
+## UCKK asset review proposals (optional)
+
+The same manual local export produces an additional **candidate-only** index. It does not assign rights, copy files to UCKK or modify a Kontexte/Ékole project. See [Creative Asset Candidates](wiki/Creative-Asset-Candidates.md). The receiving UCKK-Assets owner decides institutional/content admission separately.

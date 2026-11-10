@@ -6,6 +6,7 @@ La palette est celle de Kolor « nouveau » (peau JAUNE, cheveux ROUGE).
 """
 from __future__ import annotations
 import base64
+import hashlib
 import json
 import os
 import tempfile
@@ -332,6 +333,47 @@ def choose_variant(project:Path, role_id:str,selection:int,validate:bool|None=No
     save_state(project,state)
 
 
+def creative_asset_candidates(exports: Path, records: list[dict], role_catalog: list[dict]) -> dict:
+    """Draft-only, rights-unverified UCKK proposals based on *exported* PNG bytes.
+
+    This cannot approve publication or edit a receiving repository. It uses
+    the existing Kontexte/Ekole export paths and never hashes source sheets.
+    """
+    by_visual = {r['visual_id']: r for r in role_catalog}
+    items = []
+    for rec in records:
+        role = by_visual[rec['visual_id']]
+        files = []
+        for key in ('chemin', 'chemin_natif'):
+            rel = rec[key]
+            relative = Path(rel)
+            if relative.is_absolute() or '..' in relative.parts or not rel.startswith('images/'):
+                raise ValueError('Unsafe exported creative asset path')
+            file_path = (exports / relative).resolve()
+            if not file_path.is_relative_to(exports.resolve()) or not file_path.is_file():
+                raise ValueError('Missing exported creative asset: ' + rel)
+            files.append({'path': rel.replace('\\', '/'),
+                          'sha256': hashlib.sha256(file_path.read_bytes()).hexdigest(),
+                          'media_type': 'image/png'})
+        items.append({
+            'source_id': 'kolor:' + rec['visual_id'],
+            'kind': 'visual-role-pose',
+            'title': role['nom'],
+            'locale': 'fr-CA',
+            'source_format': 'kolor.studio.export/1',
+            'studio_review': 'reviewed' if rec['statut'] == 'pret' else 'not_reviewed',
+            'uckk_review': 'pending',
+            'rights': {'status': 'unverified', 'license': None, 'attribution': None},
+            'files': files,
+            'content': {'role_id': role['id'], 'visual_id': rec['visual_id'],
+                        'variant': rec['variante'], 'palette_id': rec['palette_id'],
+                        'skin_tone_id': rec['skin_tone_id']}
+        })
+    return {'format': 'koa.creative-asset-candidates/draft-1',
+            'producer': 'Kolor', 'target': 'UCKK-Assets', 'status': 'candidate',
+            'items': items}
+
+
 def export_kontexte(project:Path)->dict:
     """Exports colorés + copies techniques ; les 38 planches natives restent intactes."""
     state=load_state(project)
@@ -396,6 +438,9 @@ def export_kontexte(project:Path)->dict:
                       'palettes_fichier':'palettes.json',
                       'a_verifier':sum(x['statut']!='pret' for x in records),
                       'attendus':38,'exportes':selected_count,'planches_ekole':sheets},exports/'manifest.json')
+    # Additive draft candidate index: requires separate rights and UCKK review.
+    atomic_save_json(creative_asset_candidates(exports, records, roles()),
+                     exports/'creative-candidates.json')
     return {'exportes':selected_count,'a_verifier':sum(x['statut']!='pret' for x in records),
             'planches':len(sheets),'dossier':str(exports)}
 
